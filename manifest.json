@@ -1,16 +1,11 @@
 {
   "manifest_version": 2,
   "name": "Where In The World Is Graham Gilchrist?",
-  "version": "0.11",
+  "version": "0.12",
   "description": "He's all up in your images, that's where.",
   "icons": { "16": "icons/icon16.png",
              "48": "icons/icon48.png",
             "128": "icons/icon128.png" },
-
-  "browser_action": {
-    "default_icon":  "icons/icon19.png",
-    "default_title": "Dr. G. G"
-  },
 
   "content_scripts": [
     {
